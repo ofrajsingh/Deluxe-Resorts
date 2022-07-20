@@ -10,12 +10,6 @@ week in collaboration with 4 team members
 [Checkout demo](https://shubham168.github.io/Delux-project/home/home.html)🤩
 
 
-## Authors
-
-- [@Sachin Gupta](https://github.com/Guptaji03)
-- [@GayatriPriya G](https://github.com/gayathripriyaG)
-- [@Shubham Jadhav](https://www.github.com/shubham168)
-- [@Ayush Yadav](https://github.com/iamayushy)
 
 
 ## Features
@@ -54,7 +48,7 @@ HTML, CSS, JavaScript
 
 
 
-- Website: https://shubham168.github.io/Delux-project/home/home.html
+- Website: 
 
 ## Show your support
 
